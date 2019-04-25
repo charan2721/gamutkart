@@ -23,7 +23,6 @@
 		</dependency>
 			
 	</dependencies>
-	
 	<build>
 		<finalName>gamutkart</finalName>
 	</build>
